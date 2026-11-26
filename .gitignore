@@ -1,0 +1,9 @@
+.godot/
+*.tmp
+*.log
+*.bak
+*.tar.gz
+*.zip
+engine/
+build/
+dist/
